@@ -1,7 +1,7 @@
 # PRACTICE REPOSITORY
 ### TodoList
 - [x] React Todo
-- [ ] Next.js Todo
+- [x] Next.js Todo
 
 - [ ] Flask Todo
 - [ ] Django Todo
